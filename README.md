@@ -2,10 +2,22 @@
 
 
 ### 1.Contexte et but du projet
-
+L’ONCFM (Organisation nationale de lutte contre le faux-monnayage) est une organisation publique ayant pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. 
+Il faut donc mettre en place un algorithme capable de différencier automatiquement les vrais des faux billets à partir de ses caractéristiques dimensionnelles.
 
 ### 2. Source des données
+Le fichier "billets.csv" contenant des informations sur les six informations géométriques sur un billet :
+- length : la longueur du billet (en mm) ;
+- height_left : la hauteur du billet (mesurée sur le côté gauche, en
+mm) ;
+- height_right : la hauteur du billet (mesurée sur le côté droit, en mm) ;
+- margin_up : la marge entre le bord supérieur du billet et l'image de
+celui-ci (en mm) ;
+- margin_low : la marge entre le bord inférieur du billet et l'image de
+celui-ci (en mm) ;
+- diagonal : la diagonale du billet (en mm).
 
+Ces informations seront utiliser par l’algorithme.
 
 ### 3. Outils utilisés
 

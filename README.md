@@ -1,7 +1,7 @@
 # Projet-10-Detectez-de-faux-billets-avec-R-ou-Python
 
 
-### 1. Résumé du projet
+### 1.Contexte et but du projet
 
 
 ### 2. Source des données

@@ -1,12 +1,12 @@
 # Projet-10-Detectez-de-faux-billets-avec-R-ou-Python
 
 
-### 1.Contexte et but du projet
+### 1. Contexte et but du projet
 L’ONCFM (Organisation nationale de lutte contre le faux-monnayage) est une organisation publique ayant pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. 
 Il faut donc mettre en place un algorithme capable de différencier automatiquement les vrais des faux billets à partir de ses caractéristiques dimensionnelles.
 
 ### 2. Source des données
-Le fichier "billets.csv" contenant des informations sur les six informations géométriques sur un billet :
+1. Le fichier "billets.csv" contenant des informations sur les six informations géométriques sur un billet :
 - length : la longueur du billet (en mm) ;
 - height_left : la hauteur du billet (mesurée sur le côté gauche, en
 mm) ;
@@ -19,8 +19,10 @@ celui-ci (en mm) ;
 
 Ces informations seront utiliser par l’algorithme.
 
-### 3. Outils utilisés
+2. Le fichier "billets_production.csv" sera utiliser pour tester l'efficacité de l'algorithme.
 
+### 3. Outils utilisés
+Python 
 
 ### 4. Nettoyage et préparation des données
 

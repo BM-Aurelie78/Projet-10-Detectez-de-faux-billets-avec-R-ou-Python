@@ -20,7 +20,7 @@ Ces informations seront utiliser par l’algorithme.
 
 2. Le fichier "billets_production.csv" sera utiliser pour tester l'efficacité de l'algorithme.
 
-### III. Outils utilisés
+### III. Outil(s) utilisé(s)
 
 Python 
 

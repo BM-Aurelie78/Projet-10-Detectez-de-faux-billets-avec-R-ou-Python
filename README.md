@@ -31,14 +31,14 @@ Python
 
 ### V. Analyse exploratoire des données
 
-À partir du fichier  "billets.csv" contenant les dimensions de plusieurs billets, concevoir un algorithme capable de déterminer si chaque billet est vrai ou faux 
-en se basant uniquement sur ses dimensions.
+À partir du fichier  "billets.csv" contenant les dimensions de plusieurs billets, concevoir un algorithme capable de déterminer si chaque billet est vrai ou faux en se basant 
+uniquement sur ses dimensions.
 
 L' autre fichier nommé "billets_production.csv" servira à tester l'algorithme en fonction du format type du fichiers de billets
 
 Il faut mettre en concurrence deux méthodes de prédiction : 
 - une régression logistique classique ; 
-- un k-means, duquel seront utilisés les centroïdes pour réaliser la           prédiction. 
+- un k-means, duquel seront utilisés les centroïdes pour réaliser la prédiction. 
 Cet algorithme se devra d’être naturellement le plus performant possible pour identifier un maximum de faux billets au sein de la masse de billets analysés chaque jour. 
 
 Pour une évaluation optimale des modèles, nous souhaitons avoir une analyse des nombres de faux positifs et faux négatifs via une matrice de confusion.

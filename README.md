@@ -45,7 +45,7 @@ Pour une évaluation optimale des modèles, nous souhaitons avoir une analyse de
 
 ### VI. Résultats/constats
 
-
+Pour la régression logistique
 
 ### VII. Recommandations
 

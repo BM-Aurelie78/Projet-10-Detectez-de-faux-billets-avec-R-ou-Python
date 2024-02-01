@@ -31,7 +31,23 @@ Python
 
 ### V. Analyse exploratoire des données
 
+Concevoir un algorithme capable de déterminer le type de plusieurs billets en se basant uniquement sur leurs dimensions à partir d'un fichier.
 
+Un fichier nommé "billets_production.csv" servira à tester l'algorithme en fonction du format type de nos fichiers de billets
+
+Nous aimerions pouvoir mettre en concurrence deuxméthodes de         
+prédiction : 
+● une régression logistique classique ; 
+● unk-means, duquel serontutilisés lescentroïdespour réaliser la          
+prédiction. 
+Cetalgorithmesedevrad’êtrenaturellement leplusperformantpossible          
+pour identifierunmaximumdefauxbilletsauseindelamassedebillets              
+analysés chaque jour. 
+ 
+ 
+Pour uneévaluationoptimaledesmodèles, nous souhaitonsavoirune          
+analysedesnombresdefauxpositifset fauxnégatifsviaunematricede             
+confusion.
 
 ### VI. Résultats/constats
 

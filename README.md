@@ -26,22 +26,18 @@ Python
 
 ### IV. Nettoyage et préparation des données
 
-1. Vérifier si le type de données des variables sont cohérents et si les valeurs sont manquantes.
+1. Vérifier si les types de données des variables sont cohérents et si les valeurs sont manquantes.
 2. Effectuer une régression linéaire multiple pour remplacer les valeurs manquantes
 
 ### V. Analyse exploratoire des données
 
 
 
-### VI. Analyse des données
+### VI. Résultats/constats
 
 
 
-### VII. Résultats/constats
-
-
-
-### VIII. Recommandations
+### VII. Recommandations
 
 
 
